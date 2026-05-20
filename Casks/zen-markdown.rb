@@ -1,6 +1,6 @@
 cask "zen-markdown" do
-  version "0.1.2"
-  sha256 "7107f5a0ad752d1644a5eae71a21157bbee526e40246d33fbeec297266e81c57"
+  version "0.1.3"
+  sha256 "76084b03dac3eb8bd3986a1f9ffc5569060ce1025cb6dc703f5cc68095ffe0c8"
 
   url "https://github.com/thingnoy/zen-markdown/releases/download/v#{version}/zen-markdown-macos-arm64.dmg"
   name "zen-markdown"
